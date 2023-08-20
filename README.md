@@ -4,6 +4,7 @@ Project introduction
 The Udemy Course Analysis and Prediction project is an interactive data analysis and machine learning application built using Python, Streamlit, and various data science libraries. The project focuses on analyzing Udemy course data, visualizing trends, and developing a predictive model to determine whether a course on Udemy is paid or free based on its attributes.
 
 ##Installation
+
 To run this project, you'll need the following dependencies:
 
 NumPy
