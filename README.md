@@ -74,9 +74,10 @@ Before making contributions, please review the existing issues and pull requests
 ##License
 This project is licensed under the MIT License, which allows you to freely use, modify, and distribute the provided code for your own purposes. If you decide to use this code, make sure to acknowledge the original source in your work.
 
-For more details, see the LICENSE file.
 
 Feel free to contact the project owner for questions, feedback, or potential collaboration opportunities.
 
+#link
+https://www.linkedin.com/in/onome-erigha-b8a23426a
 
 
