@@ -43,9 +43,6 @@ Interact with the app to explore Udemy course trends and make payment prediction
 
 ##Project Impact
 
-Informed Decision-Making:
-Learners can confidently choose courses that align with their budget and preferences.
-
 Optimized Pricing Strategy: Course creators can make informed decisions on course pricing based on market trends and user engagement.
 
 Insightful Analysis: Platform administrators can gain insights into course popularity, subject preferences, and user engagement.
